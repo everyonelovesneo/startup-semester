@@ -245,8 +245,8 @@ export default function StartupSemesterLanding() {
           <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-gray-900">Who’s behind Startup Semester</h2>
           <div className="mt-6 grid md:grid-cols-2 gap-6">
             {[
-              { name: 'Liat Beng', url: 'https://www.linkedin.com/in/liatbeng/' },
-              { name: 'Victor Nan', url: 'https://www.linkedin.com/in/vicnan/' },
+              { name: 'Neo', url: 'https://www.linkedin.com/in/liatbeng/' },
+              { name: 'Vicnan', url: 'https://www.linkedin.com/in/vicnan/' },
             ].map((f) => (
               <a key={f.name} href={f.url} target="_blank" rel="noopener" className="rounded-2xl border border-gray-200 bg-white p-6 flex items-center gap-4">
                 <div className="h-16 w-16 rounded-full bg-gray-100 border border-gray-200" />
