@@ -21,6 +21,11 @@
       {
         "name": "next"
       }
+    ],
+    "types": [
+      "@types/node",
+      "@types/react",
+      "@types/react-dom"
     ]
   },
   "include": [
